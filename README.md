@@ -23,7 +23,7 @@ A simple UIKit app that demonstrates how Delegates work.
 ## Learn more about Surface: https://github.com/Brandon-Rod/Delegate
 
 ## Gesture Recognizer
-Desture Recognizer is a UIKit app that lets you drag a UIView around.
+Gesture Recognizer is a UIKit app that lets you drag a UIView around.
 
 ![Light-Rotato](https://user-images.githubusercontent.com/61842505/171970527-04c1bd5f-390d-4416-a575-f4da05d9f50c.png)
 

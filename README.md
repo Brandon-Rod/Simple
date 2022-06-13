@@ -30,4 +30,4 @@ Gesture Recognizer is a UIKit app that lets you drag a UIView around.
 ## Technologies Used
 - UIPanGestureRecognizer
 
-## Learn more about Gesture Recognizer: [https://github.com/Brandon-Rod/JSON-Parser](https://github.com/Brandon-Rod/Gesture-Recognizer)
+## Learn more about Gesture Recognizer: https://github.com/Brandon-Rod/Gesture-Recognizer

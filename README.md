@@ -11,7 +11,7 @@ JSON Parser is a UIKit app that decodes JSON from a file and displays it in a ta
 
 ## Learn more about Surface: https://github.com/Brandon-Rod/JSON-Parser
 
-## JSON Parser
+## Delegate
 A simple UIKit app that demonstrates how Delegates work.
 
 ![CodeWars-Rotato](https://user-images.githubusercontent.com/61842505/171769811-d389cbaf-d36f-46c0-ba74-e114915bf153.png)
@@ -20,7 +20,7 @@ A simple UIKit app that demonstrates how Delegates work.
 - UITableView
 - Protocol
 
-## Learn more about Surface: https://github.com/Brandon-Rod/Delegate
+## Learn more about Delegate: https://github.com/Brandon-Rod/Delegate
 
 ## Gesture Recognizer
 Gesture Recognizer is a UIKit app that lets you drag a UIView around.
@@ -30,4 +30,4 @@ Gesture Recognizer is a UIKit app that lets you drag a UIView around.
 ## Technologies Used
 - UIPanGestureRecognizer
 
-## Learn more about Surface: [https://github.com/Brandon-Rod/JSON-Parser](https://github.com/Brandon-Rod/Gesture-Recognizer)
+## Learn more about Gesture Recognizer: [https://github.com/Brandon-Rod/JSON-Parser](https://github.com/Brandon-Rod/Gesture-Recognizer)
